@@ -1,2 +1,2 @@
 # verilog-hdlbits
-A repo for circuit 101
+This repository contains my Verilog practice from HDLBits for Digital IC Design preparation.
